@@ -74,7 +74,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 If you witness or experience behavior that violates this Code of Conduct, please report it to the community leaders at:
 
-**[INSERT CONTACT EMAIL ADDRESS(ES) HERE]**
+**[hope@tyt.com](mailto:hope@tyt.com)**
 
 All reports will be handled with discretion and confidentiality. Privacy and security for reporters are respected at all times.
 
